@@ -1,0 +1,19 @@
+{
+  "name": "wobla",
+  "version": "0.0.0",
+  "description": "Project placeholder",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hoho/wobla.git"
+  },
+  "author": "Marat Abdullin <dakota@brokenpipe.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hoho/wobla/issues"
+  },
+  "homepage": "https://github.com/hoho/wobla"
+}
